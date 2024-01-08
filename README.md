@@ -1,17 +1,12 @@
 # 👋🏽Hi!, I am Dhruv.
 
-<img align = "left" src = "https://github-readme-stats.vercel.app/api?username=dask-58&show_icons=true&theme=radical" >
-<img align = "left" width = 44% height = 225px src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dask-58&layout=compact" >
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dask-58&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dask-58&layout=compact&langs_count=8&card_width=320" />
+</a>
 
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
-&nbsp;<br>
 &nbsp;<br>
 
 <img align = "left" alt = "c" src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
