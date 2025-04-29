@@ -1,4 +1,4 @@
 ### hey, I'm Dhruv Koli
-I'm a CS sophomore. I mostly participate in algorithmic competitions online and in my free time, I play games or watch football.
+I mostly participate in algorithmic competitions online and in my free time, I play games or watch football.
 
-Feel free to drop a message on [X](https://x.com/dask_58) or email me at [googldhruv@gmail.com](mailto:googldhruv@gmail.com).  
+Feel free to drop a message on [X](https://x.com/dask_58)
