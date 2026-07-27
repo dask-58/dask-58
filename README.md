@@ -1,8 +1,6 @@
 ## Hi, I'm Dhruv
 
-I'm a 21-year-old CS major who enjoys participating in algorithmic contests and building small tools that make life easier.
+I enjoy building & studying backend systems. Interested in distributed systems, databases & storage, developer tooling
 
-Outside of tech, I'm into football and video games -- though I don’t get as much time for them these days.
-
-Check out my gists:
+Gists:
 https://gist.github.com/dask-58
