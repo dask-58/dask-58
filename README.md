@@ -1,6 +1,6 @@
 ## Hi, I'm Dhruv
 
-I enjoy building & studying backend systems. Interested in distributed systems, databases & storage, developer tooling
+I enjoy participating in algorithmic contests
 
 Gists:
 https://gist.github.com/dask-58
